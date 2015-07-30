@@ -37,7 +37,7 @@ void print_results(int g, int t)
 int main() {        
     // I.   Get number of test cases.
     // II.  Handle the amount of cases defined.
-    // II.  A.  Read first two decimals. First is student count, second is
+    // II.  A.  Read two values - first is student count, second is
     //          total number needed for course to commence.
     // II.  B.  Read student arrival times into array.
     // II.  C.  Count students that arrived on time.
